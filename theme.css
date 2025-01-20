@@ -1,8 +1,8 @@
 /* CSS変数宣言 */
 :root {
-  --columns-width: 1080px;
+  --columns-width: 1280px;
 
-  --main-column-width: 1080px;
+  --main-column-width: 1280px;
   --main-column-padding-x: 20px;
   --main-column-padding-bottom: 20px;
 
